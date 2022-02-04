@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Gallery</string>
+    <string name="your_memories">Your memories</string>
+    <string name="next">NExt</string>
+    <string name="prev">Prev</string>
+    <string name="todo">TODO</string>
+</resources>
